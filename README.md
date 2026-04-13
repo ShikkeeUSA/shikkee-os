@@ -1,5 +1,6 @@
 # ShikkeeOS
-
+🚧 Early system build in progress  
+We are defining the architecture for a productized housing system.
 The operating layer behind Shikkee’s fixed-price housing system.
 
 Shikkee is building a hardware + OS company replacing the broken housing system with a productized path to home ownership.
