@@ -1,0 +1,14 @@
+{
+  "model": "Iconic 1076",
+  "region": "US",
+  "ownership_path": "purchase",
+  "addons": [
+    "solar_bundle",
+    "battery_ready"
+  ],
+  "constraints": {
+    "fixed_price": true,
+    "assembly_target_days": 30
+  },
+  "status": "draft_configuration"
+}
