@@ -1,56 +1,57 @@
 # ShikkeeOS
-🚧 Early system build in progress  
-We are defining the architecture for a productized housing system.
+
 The operating layer behind Shikkee’s fixed-price housing system.
 
-Shikkee is building a hardware + OS company replacing the broken housing system with a productized path to home ownership.
+We are turning housing from a fragmented process into a product.
 
-ShikkeeOS is the system layer that connects:
+🚧 System build in progress
 
-- home configuration
-- pricing logic
-- energy infrastructure
-- deployment workflow
-- customer journey from click to delivery
+---
+
+Most companies build tools for construction.  
+We are replacing construction with a system.
 
 ---
 
 ## What this is
 
-ShikkeeOS is not a listing platform.
-It is not a marketplace.
-It is not another construction management dashboard.
+ShikkeeOS is not a marketplace.  
+It is not a listing platform.  
+It is not construction management software.  
 
-It is the operating system for turning housing into a product.
+It is the operating system for productized housing.
 
 ---
 
 ## Core system areas
 
-### 1. Configuration
-A buyer-facing system for selecting home models, options, add-ons, and ownership path.
+ShikkeeOS connects five layers:
 
-### 2. Pricing logic
-Fixed-price system design that reduces ambiguity and removes traditional quote chaos.
+1. Customer layer  
+2. Configuration layer  
+3. Pricing layer  
+4. Infrastructure layer  
+5. Deployment layer  
 
-### 3. Energy layer
-Solar-native architecture, infrastructure logic, and optimization across the home system.
-
-### 4. Deployment workflow
-The operating logic behind assembly, delivery, and system-native add-ons.
-
-### 5. Customer operating layer
-A clear path from interest to purchase to delivery, without contractor fragmentation.
+These layers must behave as one system.
 
 ---
 
 ## Design principles
 
-- fixed over variable
-- system over project
-- clarity over chaos
-- product over process
-- infrastructure built in, not bolted on
+- fixed over variable  
+- system over project  
+- clarity over chaos  
+- product over process  
+- infrastructure built in, not bolted on  
+
+---
+
+## Early artifacts
+
+- SYSTEM-MAP.md — system architecture map  
+- ARCHITECTURE.md — evolving architecture notes  
+- config-example.json — structured home configuration example  
 
 ---
 
@@ -58,11 +59,11 @@ A clear path from interest to purchase to delivery, without contractor fragmenta
 
 This repository will evolve to include:
 
-- architecture docs
-- system diagrams
-- product logic
-- API concepts
-- operational workflows
+- system diagrams  
+- data models  
+- API concepts  
+- operational workflows  
+- first code modules  
 
 ---
 
@@ -73,6 +74,17 @@ Early build stage.
 The system is being shaped around a simple idea:
 
 **Don’t manage the old housing process. Replace it.**
+
 ---
 
-If you think housing should behave like a product, not a project — we should talk.
+## For engineers
+
+We are building a full-stack housing system:
+
+- productized home design  
+- configuration + ordering layer  
+- pricing and rules engine  
+- energy + infrastructure integration  
+- deployment system for real-world assembly  
+
+If you think in systems, not features — we should talk.
