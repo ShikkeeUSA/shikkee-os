@@ -73,3 +73,6 @@ Early build stage.
 The system is being shaped around a simple idea:
 
 **Don’t manage the old housing process. Replace it.**
+---
+
+If you think housing should behave like a product, not a project — we should talk.
